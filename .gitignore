@@ -3,3 +3,8 @@
 /.idea/workspace.xml
 .idea
 
+# db files
+*.sqlite3
+
+# profile_pictures
+/First_Project/mysite/pictures/profile_pictures/
